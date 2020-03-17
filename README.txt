@@ -1,3 +1,3 @@
 # Project Title
 
-Simple overview o
+Simple overview of
