@@ -1,3 +1,3 @@
 # Project Title
 
-Simple overview of use/purpos
+Simple overview of use/purpose
