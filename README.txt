@@ -4,4 +4,4 @@ Simple overview of use/purpose.
 
 ## Description
 
-An in-d
+An in-de
