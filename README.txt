@@ -4,4 +4,4 @@ Simple overview of use/purpose.
 
 ## Description
 
-An in-dept
+An in-depth
