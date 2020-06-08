@@ -4,4 +4,4 @@ Simple overview of use/purpose.
 
 ## Description
 
-An in-depth pa
+An in-depth par
