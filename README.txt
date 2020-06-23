@@ -4,4 +4,4 @@ Simple overview of use/purpose.
 
 ## Description
 
-An in-depth paragraph about your pro
+An in-depth paragraph about your proj
