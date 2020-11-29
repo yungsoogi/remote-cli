@@ -8,4 +8,4 @@ An in-depth paragraph about your project and overview of use.
 
 
 ### Installing
-* How should a user in
+* How should a user ins
