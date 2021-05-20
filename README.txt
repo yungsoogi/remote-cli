@@ -14,4 +14,4 @@ An in-depth paragraph about your project and overview of use.
 
 ### Executing program
 
-* How to run the pr
+* How to run the pro
