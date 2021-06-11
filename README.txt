@@ -15,4 +15,4 @@ An in-depth paragraph about your project and overview of use.
 ### Executing program
 
 * How to run the program
-* Step-by-step b
+* Step-by-step bu
