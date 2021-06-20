@@ -17,4 +17,4 @@ An in-depth paragraph about your project and overview of use.
 * How to run the program
 * Step-by-step bullets
 
-Test
+Tests
