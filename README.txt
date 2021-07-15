@@ -19,4 +19,4 @@ An in-depth paragraph about your project and overview of use.
 
 Tests: 
 
-To run test
+To run tests
