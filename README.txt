@@ -21,4 +21,4 @@ Tests:
 
 To run tests, from the root dir of the repo, call: 
 ```
-python -m pytest t
+python -m pytest te
