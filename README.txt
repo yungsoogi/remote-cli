@@ -24,4 +24,4 @@ To run tests, from the root dir of the repo, call:
 python -m pytest tests
 ```
 
-## Auth
+## Autho
