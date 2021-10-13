@@ -26,4 +26,4 @@ python -m pytest tests
 
 ## Authors
 
-Contributors names and co
+Contributors names and con
