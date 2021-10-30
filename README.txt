@@ -28,4 +28,4 @@ python -m pytest tests
 
 Contributors names and contact info
 
-ex. Domi
+ex. Domin
