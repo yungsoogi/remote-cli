@@ -29,4 +29,4 @@ python -m pytest tests
 Contributors names and contact info
 
 ex. Dominique Pizzie  
-ex. [@DomPizzie](http
+ex. [@DomPizzie](https
