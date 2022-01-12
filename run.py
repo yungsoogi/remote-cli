@@ -1,1 +1,1 @@
-from src.exampl
+from src.example
