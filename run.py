@@ -1,1 +1,1 @@
-from src.example imp
+from src.example impo
