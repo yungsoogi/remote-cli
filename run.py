@@ -1,1 +1,1 @@
-from src.example import Exam
+from src.example import Examp
