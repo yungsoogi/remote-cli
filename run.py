@@ -4,4 +4,4 @@ from src.example import Example
 print("Part 1")
 print("POSITIVE")
 print("NEGATIVE")
-print("PART 2"
+print("PART 2")
