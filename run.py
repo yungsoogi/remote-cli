@@ -7,3 +7,4 @@ print("NEGATIVE")
 print("PART 2")
 print("plots printed here!")
 print("PART 3")
+p
