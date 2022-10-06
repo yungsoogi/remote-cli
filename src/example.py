@@ -1,1 +1,1 @@
-class Exa
+class Exam
