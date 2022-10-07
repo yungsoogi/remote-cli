@@ -1,1 +1,1 @@
-class Examp
+class Exampl
