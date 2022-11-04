@@ -1,2 +1,2 @@
 class Example:
-    def __
+    def __i
