@@ -1,2 +1,2 @@
 class Example:
-    def __init_
+    def __init__
