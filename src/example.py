@@ -1,2 +1,2 @@
 class Example:
-    def __in
+    def __ini
