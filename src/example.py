@@ -1,2 +1,2 @@
 class Example:
-    def __init__(sel
+    def __init__(self
