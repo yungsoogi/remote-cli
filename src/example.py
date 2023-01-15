@@ -3,3 +3,4 @@ class Example:
         pass
 
     def salute(self):
+  
