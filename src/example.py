@@ -3,4 +3,4 @@ class Example:
         pass
 
     def salute(self):
-        ret
+        retu
